@@ -1,8 +1,4 @@
-Here’s a clean and professional `README.md` you can directly use for your GitHub repository:
-
----
-
-# 🎁 Interactive Gift Box Web App
+# 🎁 Interactive Gift Web App
 
 An interactive and animated gift box experience built for fun and real-world use.
 Click to open the gift, enjoy smooth animations, and explore a hidden gallery reveal.
