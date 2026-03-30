@@ -65,9 +65,15 @@ That’s it. 🎉
 
 ---
 
-## 🌟 Preview
+## 🌟 Project Demo
 
-![Alt text](./Screenshots/landing.png)
+<img src="./Screenshots/landing.png" alt="screenshot 1" width="400"/>
+<img src="./Screenshots/photoGallery.png" alt="screenshot 2" width="400"/>
+<img src="./Screenshots/Text%20behind%20photo.png" alt="screenshot 3" width="400"/>
+<img src="./Screenshots/PhotoCard2.png" alt="screenshot 4" width="400"/>
+<img src="./Screenshots/Text-Behind-Photo.png" alt="screenshot 5" width="400"/>
+<img src="./Screenshots/QuestionPage.png" alt="screenshot 6" width="400"/>
+<img src="./Screenshots/FinalPage.png" alt="screenshot 7" width="400"/>
 
 ---
 
