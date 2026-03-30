@@ -67,7 +67,7 @@ That’s it. 🎉
 
 ## 🌟 Preview
 
-Add screenshots or a demo GIF here.
+![Alt text](./Screenshots/landing.png)
 
 ---
 
